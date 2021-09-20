@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me <meta name="google-site-verification" content="n1npRlADENAbiiS31wd9dhGxxf_u9z-jNLc1Va3dBys" />"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
