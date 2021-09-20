@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biomedical Engineering (Summa Cum Laude), University of innesota - Twin Cities, 2018
+* Ph.D. in Computer Science, University of Toulouse, 2023 (expected)
 * M.S. in Computer Science, University of Texas at Austin, 2020
-* Ph.D in Computer Science, University of Toulouse, 2023 (expected)
+* B.S. in Biomedical Engineering (Summa Cum Laude), University of innesota - Twin Cities, 2018
+
 
 Work experience
 ======
@@ -23,24 +24,12 @@ Work experience
 * Summer 2019: PhD Software Development Intern
   * Google
 
+* Summer 2018: Software Engineer
+  * Swoop Search
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Mentorship
