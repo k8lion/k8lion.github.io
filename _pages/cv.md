@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Computer Science, University of Toulouse, 2023 (expected)
 * M.S. in Computer Science, University of Texas at Austin, 2020
-* B.S. in Biomedical Engineering (Summa Cum Laude), University of innesota - Twin Cities, 2018
+* B.S. in Biomedical Engineering (Summa Cum Laude), University of Minnesota - Twin Cities, 2018
 
 
 Work experience
