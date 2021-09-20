@@ -14,5 +14,3 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
- <script src="https://bibbase.org/service/mendeley/a4e10ad6-978c-3c9d-b9c9-c903b9d27003?jsonp=1"></script> 
