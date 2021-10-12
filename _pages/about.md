@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at IRIT, University of Toulouse. My thesis topic is on brain-inspired structural learning for artificial neural networks.
+I am a 2nd year PhD student at the University of Toulouse. My research focuses on brain-inspired structural learning for artificial neural networks.
 
