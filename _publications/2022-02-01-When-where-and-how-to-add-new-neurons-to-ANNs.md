@@ -2,7 +2,7 @@
 title: "When, where, and how to add new neurons to ANNs"
 collection: publications
 permalink: /publication/_publications/2022-02-01-When-where-and-how-to-add-new-neurons-to-ANNs
-type: Preprint
+type: Conference
 date: 2022-02-16
 venue: 'AutoML'
 paperurl: 'https://openreview.net/forum?id=SWOg-arIg9'
