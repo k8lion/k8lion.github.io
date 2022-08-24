@@ -16,7 +16,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<h3>Other Research Works</h3>	
+## Other Research Works
 
 {% for post in site.works reversed %}
   {% include archive-single.html %}
