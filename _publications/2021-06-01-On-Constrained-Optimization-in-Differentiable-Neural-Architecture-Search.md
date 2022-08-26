@@ -1,7 +1,7 @@
 ---
 title: "DARTS-PRIME: Regularization and Scheduling Improve Constrained Optimization in Differentiable NAS"
-collection: works
-permalink: /works/2021-06-01-On-Constrained-Optimization-in-Differentiable-Neural-Architecture-Search
+collection: publications
+permalink: /publication/2021-06-01-On-Constrained-Optimization-in-Differentiable-Neural-Architecture-Search
 type: Preprint
 date: 2021-10-01
 venue: 'arXiv preprint arXiv:2106.11655'

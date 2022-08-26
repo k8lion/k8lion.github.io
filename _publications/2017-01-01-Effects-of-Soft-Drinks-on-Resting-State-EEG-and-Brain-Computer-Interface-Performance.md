@@ -1,7 +1,7 @@
 ---
 title: "Effects of Soft Drinks on Resting State EEG and Brain-Computer Interface Performance"
 collection: publications
-permalink: /publications/2017-01-01-Effects-of-Soft-Drinks-on-Resting-State-EEG-and-Brain-Computer-Interface-Performance
+permalink: /publication/2017-01-01-Effects-of-Soft-Drinks-on-Resting-State-EEG-and-Brain-Computer-Interface-Performance
 type: Journal
 date: 2017-01-01
 venue: 'IEEE Access'

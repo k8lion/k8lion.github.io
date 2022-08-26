@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research Works"
-permalink: /works/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 #<script src="https://bibbase.org/service/mendeley/a4e10ad6-978c-3c9d-b9c9-c903b9d27003?jsonp=1"></script> 
 ---
@@ -13,12 +13,6 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-## Other Research Works
-
-{% for post in site.works reversed %}
   {% include archive-single.html %}
 {% endfor %}
 

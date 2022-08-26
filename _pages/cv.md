@@ -27,9 +27,9 @@ Work experience
 * Summer 2018: Software Engineer
   * Swoop Search
 
-Research Works
+Publications
 ======
-  <ul>{% for post in site.works reversed %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
