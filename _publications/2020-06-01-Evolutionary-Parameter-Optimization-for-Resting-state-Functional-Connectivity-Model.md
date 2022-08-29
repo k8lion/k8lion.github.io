@@ -1,6 +1,6 @@
 ---
 title: "Evolutionary Parameter Optimization for Resting-state Functional Connectivity Model"
-collection: works
+collection: publications
 permalink: /publication/2020-06-01-Evolutionary-Parameter-Optimization-for-Resting-state-Functional-Connectivity-Model
 type: Poster
 date: 2020-06-01

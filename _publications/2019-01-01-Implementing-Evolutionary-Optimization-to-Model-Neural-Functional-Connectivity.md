@@ -1,6 +1,6 @@
 ---
 title: "Implementing Evolutionary Optimization to Model Neural Functional Connectivity"
-collection: works
+collection: publications
 permalink: /publication/2019-01-01-Implementing-Evolutionary-Optimization-to-Model-Neural-Functional-Connectivity
 type: Workshop
 date: 2019-01-01
