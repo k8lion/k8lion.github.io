@@ -1,6 +1,6 @@
 ---
 title: "Implementing Evolutionary Optimization to Model Neural Functional Connectivity"
-collection: publications
+collection: works
 type: Poster
 permalink: /publication/2019-10-01-Evolutionary-Parameter-Optimization-for-Resting-state-Functional-Connectivity-Model
 date: 2019-10-01
