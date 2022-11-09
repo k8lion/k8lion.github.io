@@ -8,3 +8,4 @@ venue: 'NeurReps Workshop'
 paperurl: 'https://openreview.net/pdf?id=KJFpArxWe-g'
 citation: ' Kaitlin Maile, Dennis George Wilson, Patrick Forré, &quotTowards Architectural Optimization of Equivariant Neural Networks over Subgroups.&quot; NeurReps Workshop, 2022.'
 ---
+[Access paper here](https://openreview.net/pdf?id=KJFpArxWe-g){:target="_blank"}
