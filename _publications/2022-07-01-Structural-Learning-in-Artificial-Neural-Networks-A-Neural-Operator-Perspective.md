@@ -1,7 +1,7 @@
 ---
-title: "Structural Learning in Artificial Neural Networks: A Neural Operator Perspective "
+title: "Structural Learning in Artificial Neural Networks: A Neural Operator Perspective"
 collection: publications
-permalink: /publication/_publications/2017-01-01-Effects-of-Soft-Drinks-on-Resting-State-EEG-and-Brain-Computer-Interface-Performance
+permalink: /publication/2022-07-01-Structural-Learning-in-Artificial-Neural-Networks-A-Neural-Operator-Perspective
 type: Journal
 date: 2022-07-18
 venue: 'TMLR'
