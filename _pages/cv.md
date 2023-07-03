@@ -18,6 +18,9 @@ Education
 
 Work experience
 ======
+* Summer 2023: Student Researcher
+  * Google
+
 * Summer 2020: Research Intern
   * Cognizant
 
