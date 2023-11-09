@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, University of Toulouse, 2023 (expected)
+* Ph.D. in Computer Science, University of Toulouse, 2023 
 * M.S. in Computer Science, University of Texas at Austin, 2020
 * B.S. in Biomedical Engineering (Summa Cum Laude), University of Minnesota - Twin Cities, 2018
 
 
 Work experience
 ======
-* Summer 2023: Student Researcher
+* Summer through Winter 2023: Student Researcher
   * Google
 
 * Summer 2020: Research Intern
