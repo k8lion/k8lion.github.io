@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kaitlin Maile"
 title_separator          : "-"
 name                     : &name "Kaitlin Maile"
-description              : &description "PhD Student at the University of Toulouse"
+description              : &description "Researcher at Google"
 url                      : https://mailekaitl.in # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "k8lion/k8lion.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kaitlin Maile"
   avatar           : "Kaitlin_Maile_08_16_20_0421_edit_small.jpg"
-  bio              : "PhD Student in Artificial Intelligence at the University of Toulouse"
-  location         : "Toulouse, France"
+  bio              : "Researcher at Google"
+  location         : "Amsterdam, Netherlands"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qL93rdIAAAAJ&sortby=pubdate"
-  email            : "kaitlin dot maile at irit dot fr"
+  email            : "kaitlinmaile at gmail dot com"
   researchgate     :  
   uri              :
   bitbucket        :
